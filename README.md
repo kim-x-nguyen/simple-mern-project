@@ -1,0 +1,113 @@
+<br />
+<p align="center">
+  <h3 align="center">A Simple Website</h3>
+
+  <p align="center">
+    A dummy project built with ReactJS and ExpressJS
+    <br />
+    ·
+    <a href="https://github.com/nguyenxuongkim2103/simple-mern-project/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/nguyenxuongkim2103/simple-mern-project/issues">Request Feature</a>
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This is just a dummy example website that I created to practice NodeJS and MVC model.
+
+### Built With
+
+
+* [ReactJS](https://reactjs.org/)
+* [ExpressJS](https://expressjs.com/)
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+You need to install Node Package Manager first.
+
+### Prerequisites
+
+
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/nguyenxuongkim2103/simple-mern-project
+   ```
+2. Install NPM packages
+
+navigate to the frontend and backend folders to install tools
+   ```sh
+   npm install
+   ```
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/nguyenxuongkim2103/simple-mern-project/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Twitter - [@nguyenxuongkim](https://twitter.com/nguyenxuongkim)
+Linkedin - [Kim Nguyen](https://www.linkedin.com/in/kim-nguyen-xuong/)
